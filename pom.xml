@@ -10,12 +10,12 @@
 
     <groupId>org.avaje.experiment</groupId>
     <artifactId>experiment-jsonp-parent</artifactId>
-    <version>0.2-SNAPSHOT</version>
+    <version>0.2</version>
     <packaging>pom</packaging>
 
     <scm>
         <developerConnection>scm:git:git@github.com:avaje/avaje-jsonb.git</developerConnection>
-        <tag>experiment-jsonp-parent-0.1</tag>
+        <tag>experiment-jsonp-parent-0.2</tag>
     </scm>
 
     <modules>

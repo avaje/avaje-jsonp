@@ -4,7 +4,7 @@
     <parent>
         <groupId>org.avaje.experiment</groupId>
         <artifactId>experiment-jsonp-parent</artifactId>
-        <version>0.2-SNAPSHOT</version>
+        <version>0.2</version>
     </parent>
 
     <artifactId>experiment-jsonp</artifactId>
@@ -14,7 +14,7 @@
         <dependency>
             <groupId>org.avaje.experiment</groupId>
             <artifactId>experiment-jsonp-api</artifactId>
-            <version>0.2-SNAPSHOT</version>
+            <version>0.2</version>
         </dependency>
 
         <dependency>
